@@ -13,7 +13,7 @@ body {
 
 /* ========= Common ========== */
 .content {
-  width: 1150px;
+  width: 1110px;
   max-width: calc(100% - 48px);
   margin-left: auto;
   margin-right: auto;
@@ -44,7 +44,7 @@ a {
 .navbar {
   display: flex;
   align-items: center;
-  padding-top: 40px;
+  padding-top: 30px;
 }
 
 .navbar .logo {
@@ -65,7 +65,7 @@ a {
 
 .navbar ul {
   display: flex;
-  margin-left: 140px;
+  margin-left: 130px;
 }
 
 .navbar ul a {
